@@ -1,0 +1,63 @@
+# Specifies the parameters that are common to all the experiments.
+environment_parameters_sigma_0.15:
+  sigma: 0.15
+  rho: 0.5
+  tau: 0.13
+  N: 2
+  S_c: 1.0
+  nash_payoff: 0.081
+  pareto_payoff: 0.373
+  nash_margin: 0.163
+
+
+environment_parameters_sigma_0.10:
+  sigma: 0.1
+  rho: 0.5
+  tau: 0.13
+  N: 2
+  S_c: 1.0
+  nash_payoff: 0.054
+  pareto_payoff: 0.364
+  nash_margin: 0.108
+
+environment_parameters_sigma_0.30:
+  sigma: 0.3
+  rho: 0.5
+  tau: 0.13
+  N: 2
+  S_c: 1.0
+  nash_payoff: 0.158
+  pareto_payoff: 0.337
+  nash_margin: 0.319
+
+environment_parameters_sigma_0.50:
+  sigma: 0.5
+  rho: 0.5
+  tau: 0.13
+  N: 2
+  S_c: 1.0
+  nash_payoff: 0.223
+  pareto_payoff: 0.319
+  nash_margin: 0.481
+
+environment_parameters_sigma_0.70:
+  sigma: 0.7
+  rho: 0.5
+  tau: 0.13
+  N: 2
+  S_c: 1.0
+  nash_payoff: 0.246
+  pareto_payoff: 0.319
+  nash_margin: 0.606
+
+
+environment_parameters_sigma_1.00:
+  sigma: 1.
+  rho: 0.5
+  tau: 0.13
+  N: 2
+  S_c: 1.0
+  nash_payoff: 0.278
+  pareto_payoff: 0.334
+  nash_margin: 0.783
+

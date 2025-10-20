@@ -1,0 +1,20 @@
+venv/
+
+# Python bytecode files
+__pycache__/
+*.py[cod]
+
+# images
+*.png
+
+# csv files
+*.csv
+
+# pdf files
+*.pdf
+
+# txt files
+*.txt
+
+# override requirements.txt
+!requirements.txt
