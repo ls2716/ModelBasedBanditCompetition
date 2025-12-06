@@ -1,4 +1,4 @@
-# ModelBasedBanditCompetition
+# Model-based Bandit Competition
 
 
 This repository contains the code accompanying the paper:  
