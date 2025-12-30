@@ -1,4 +1,4 @@
-# Learning Extortion in Pricing Duopoly Competition
+# Model-based Bandit Competition
 
 
 This repository contains the code accompanying the paper:  
