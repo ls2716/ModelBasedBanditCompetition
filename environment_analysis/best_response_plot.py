@@ -50,7 +50,7 @@ if __name__ == "__main__":
     plt.xlim([-0.2, 1.2])
     plt.ylim([0, 1])
     # plt.title('Best response plot')
-    plt.ylabel('$T^{B1}(s^2)$')
+    plt.ylabel('$BR^1(s^2)$')
     plt.xlabel('$s^2$')
     plt.gca().set_aspect('equal')
     plt.grid()
