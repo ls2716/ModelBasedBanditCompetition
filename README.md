@@ -5,9 +5,9 @@ This repository contains the code accompanying the paper:
 “Competitive Pricing Using Model-Based Bandits”  
 published in the *Computational Economics* (2025).
 
-The code supports the research presented in Chapter 2, "Competitive Pricing using
+The code supports the research presented in Chapter 3, "Competitive Pricing using
 Model-based Bandits" of the PhD thesis:  
-“Algorithmic Pricing in Competitive Markets”  
+“Algorithmic Pricing in Mutli-agent, Competitive Markets”  
 by Lukasz Sliwinski, 2025, University of Edinburgh.
 
 ---
